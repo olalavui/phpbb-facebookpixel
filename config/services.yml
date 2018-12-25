@@ -1,0 +1,9 @@
+services:
+    phpbbvietnam.facebookpixel.listener:
+        class: phpbbvietnam\facebookpixel\event\listener
+        arguments:
+            - '@config'
+            - '@template'
+            - '@user'
+        tags:
+            - { name: event.listener }
