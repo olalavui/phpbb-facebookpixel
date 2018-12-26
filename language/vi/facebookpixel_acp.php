@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* Facebook Pixel extension for the phpBB Forum Software package.
+* Facebook Pixel extension for the phpBB Forum Software package. <https://github.com/olalavui/phpbb-facebookpixel/>
 *
 * @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
@@ -40,5 +40,5 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'ACP_FACEBOOKPIXEL'				=> 'Facebook Pixel',
 	'ACP_FACEBOOKPIXEL_ID'			=> 'Facebook Pixel ID',
-	'ACP_FACEBOOKPIXEL_ID_EXPLAIN'	=> 'Enter your Facebook Pixel ID code, e.g.: <samp>1234567890</samp>. <a href="https://www.facebook.com/business/learn/facebook-ads-pixel">Click for more information</a>.',
+	'ACP_FACEBOOKPIXEL_ID_EXPLAIN'	=> 'Nhập Facebook Pixel ID vào đây, vd.: <samp>1234567890</samp>. <a href="https://www.facebook.com/business/learn/facebook-ads-pixel">Tìm hiểu về Facebook Pixel</a>.',
 ));
