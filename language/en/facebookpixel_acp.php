@@ -1,8 +1,7 @@
 <?php
 /**
-*
-* Facebook Pixel extension for the phpBB Forum Software package.
-*
+* Facebook Pixel extension for the phpBB Forum Software package. <https://github.com/olalavui/phpbb-facebookpixel/>
+* 
 * @copyright (c) 2014 phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
