@@ -1,6 +1,6 @@
 <?php
 /**
-* Facebook Pixel for phpBB 3.2.x
+* Facebook Pixel for phpBB 3.2.x <https://github.com/olalavui/phpbb-facebookpixel/>
 * Base on Google Analytics extension for the phpBB Forum Software package.
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
